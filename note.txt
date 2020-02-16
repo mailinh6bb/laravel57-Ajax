@@ -1,0 +1,4 @@
+dùng chủ yếu route::resource,
+lấy giá trị thể select option: $().val();
+lặp giá trị mảng json trả về: $.each()
+
